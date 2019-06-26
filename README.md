@@ -12,12 +12,11 @@ The frequency of neighboring bases k (k-mer) may contain statistical information
 
 ## List of files
 
- - **Examples:** Files of Example
-
  - **README:** Documentation;
 
  - **findKmers.py** Main File - Python.
 
+ - **testOne.fasta** Example.
 
 ## Dependencies
 
