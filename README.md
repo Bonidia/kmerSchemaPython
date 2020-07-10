@@ -56,7 +56,7 @@ Where:
 
 If you use this code in a scientific publication, we would appreciate citations to the following paper:
 
-Submitted
+Bonidia, R. P., de Leon Ferreira, A. C. P., Paschoal, A. R., & Sanches, D. S. (2019, October). Selecting the Most Relevant Features for the Identification of Long Non-Coding RNAs in Plants. In 2019 8th Brazilian Conference on Intelligent Systems (BRACIS) (pp. 539-544). IEEE.
 
 ## References
 
