@@ -38,7 +38,7 @@ $ git clone https://github.com/Bonidia/kmerSchemaPython.git kmerSchema
 ```sh
 Access folder: $ cd kmerSchema
  
-To run the tool (Example): $ python3.5 -i input -o output -l label -k 2
+To run the tool (Example): $ python3.5 findKmers.py -i input -o output -l label -k 2
 
 
 Where:
